@@ -1,28 +1,31 @@
+<h1>[WIP]3D Scanning Apps for iPhone/iPad users</h1>
 
-<h1>3D Scanning Apps for iPhone/iPad users</h1>
 
-This project aims to identify and catalog appropriate 3D scanning apps for students. 
+<h3>Summary</h3>
+This project aims to identify and catalog appropriate 3D scanning apps for students and give suggestions of 3D scanning apps under specific circumstance. One object have been scanned using 5 different 3D scanning apps and the results are documented in Sketchfab. 
 
-<h3>Testing device and object</h3>
+<h3>Testing device and scanning object</h3>
 ![001|690x348](upload://jMyv7dJ4Ld8sSuytd0Brjb3zW3L.jpeg) 
 
-I used [Iphone7](https://support.apple.com/kb/SP743?viewlocale=en_US&locale=en_US) and [Ipad Pro 12.9-inch(3rd generation)](https://support.apple.com/kb/SP785?viewlocale=en_US&locale=en_US) as a 3D scanning device, and used 100mm height froggy bank as a object to run 3D scan. 
+I used [Iphone7](https://support.apple.com/kb/SP743?viewlocale=en_US&locale=en_US) and [Ipad Pro 12.9-inch(3rd generation)](https://support.apple.com/kb/SP785?viewlocale=en_US&locale=en_US) as a 3D scanning device, and used 100mm height froggy bank as a object to run 3D scan.
 
-<h3>3D scanning apps/programs with good reputation</h3>
+<h3>Candidates, 3D scanning apps/programs with good reputation</h3>
 
-Starting the research, I listed up frequently recommended 3d scanning apps from recently written articles and recommended photogrammatory apps/software from Harvard Summer course, Introduction to Digital Fabrication.<br>
+Starting the research, I listed up test candidate apps by searching frequently recommended 3d scanning apps.I found two recently written articles, and referenced a list of photogrammatory apps/software posted in this discourse before. 
 + [The 8 best 3D scanning apps for smartphones in 2020 (free!)](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)
-+ [2020 Best 3D Scanner Apps for Android & iPhone](https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/)
-+ [Introduction to Digital Fabricaton](https://www.summer.harvard.edu/course-catalog/ssp-courses/introduction-to-digital-fabrication/34524)<br>
++ [2020 Best 3D Scanner Apps for Android & iPhone](https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/)<br>
+
+From those references, I got 13 possible testing 3D apps available in the market.  
 
 <h3> 3D scanning apps hardware restrictions and key features</h3>
 
-From the list, I checked the apps whether they works in my devices by downloading and operating it. Some apps only exist in Andriod apps stores, and some other scanning apps requires additional divice like Structure sensor. Meshroom and ReCap are software runs in PC, and Display.land announced discontiue of the service from Auguest. <br><br>
+Many of apps require additional device, or specific camera spec. For example, Canvas requires extra $499 Structure sensor, Qlone needs printed AR Mat, and Heges needs camera with FaceID function. More detailed restrictions and app features are listed below. 
 
-As a results, 5 apps, **Capture, Heges, Qlone, Scandy Pro, and Trino**, works in one of my device I have. 
 
-+ iPhone7 Test: Qlone, Trino
-+ iPad Pro(3rd) Test: Capture, Heges, Scandy Pro
+I checked the apps whether they works in iPhone7 and iPad Pro by downloading and operating it. Some apps only exist in Andriod apps stores, and some other scanning apps requires additional divice like Structure sensor. Meshroom and ReCap are software runs in PC not smartphones or tablets. Lastely, Display.land announced discontiue of the service from August, so it was not available in the ios store anymore. 
+
+After removing the apps that can not be tested using my devices, I foucsed on testing 5 remaining apps, **Capture, Heges, Qlone, Scandy Pro, and Trino**. 
+
 
 | Index | Name | ios | Hardware restrictions | Key features(free) | Key features(paid) |
 | ----- | ---- | --- |----------------- | -------------------- | ------------------- | 
@@ -40,16 +43,46 @@ As a results, 5 apps, **Capture, Heges, Qlone, Scandy Pro, and Trino**, works in
 | 12 | [Scandy Pro](https://www.scandy.co/apps/scandy-pro) | O | iPhones and iPads with FaceID | - | <li>$1.99/W, $5.99/M, $49.99/Y</li> <li>In-app mesh editting</li> |
 | 13 | [Trnio](https://www.trnio.com/) | O | - | <li>Three free scan</li> | <li>$5.99</li> <li>Export OBJ</li> |
 
+<h3> 3D scanning test results</h3>
 
-<details open>
-<summary>Capture: 3D scan anything</summary>
++ iPhone7 Test: Qlone, Trino
++ iPad Pro(3rd) Test: Capture, Heges, Scandy Pro
 <br>
-Pros: <br>
-* hello
-* 2
+<details open>
+<summary> <strong>|05| Capture: 3D scan anything</strong></summary>
 
-Cons
+<ul>
+
+One of the most outstanding feature of this app is that it is free. The app was only one app which does not request you to subscribe or buy pro version to use all functions the app has. Even though many of 3D scanning apps are free to download at first, most of them requires you to pay to unlock some functions. However, in this app, you can 3D scan and download the models without limitation. 
+
+There are some drawbacks. First, the app only provides you [point cloud data](https://en.wikipedia.org/wiki/Point_cloud) instead of [triangulated mesh](https://en.wikipedia.org/wiki/Polygon_mesh). It means you need do extra effort to make mesh using other programs such as Rhino, Catia, ... to make mesh. On top of it, if you are using Apple devices which has TrueDepthCamera on faceside of the device, it is very hard to aim right direction to capture the object. In this case I used the camera on the face side of the iPad, so 
+
+<h4>Pros :</h4>
+<li> Totally free app</li>
+<li> Unlimited 3D scanning and downloading</li>
+<li> View model in web browser</li>
+
+<h4>Cons :</h4>
+<li>Provides only point cloud </li>
+
+<h4> Possible data export formats : </h4>
+<li>USDZ / PLY / OBJ</li>
+</ul>
 </details>
+<br>
+<summary> <strong>|07| Heges </strong></summary>
+
+<ul>
+<h4>Results :</h4>
+
+<h4>Pros :</h4>
+
+<h4>Cons :</h4>
+
+<h4> Possible data export formats : </h4>
+
+</ul>
+
 
 Capture:
 Please be aware that this PLY file contains a point cloud representation of the scan. Our SDK supports meshing, but we currently do not export meshes from the Capture App.
