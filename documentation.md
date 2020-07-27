@@ -8,7 +8,7 @@ Starting the research, I listed up 3d scanning apps to test based on recently wr
 
 <h2> 3D Scanning Apps Comparison Chart</h2>
 
-| Index | Name | ios | Hardware restrictions | Free version feature | Pay version feature | Useful links |Tested divece|
+| Index | Name | ios | Hardware restrictions | Key features(free) | Key features(paid) | Tutorials |Testing divece|
 | ----- | ---- | --- |----------------- | -------------------- | ------------------- | ------------ |-------------|
 | 01 | 3D Creator | X | - | - | - | - | - |
 | 02 | 3DsizeMe | O | ipad with [Structure sensor](https://techmed3d.com/products/structure-sensor-mark-ii/)    | - | - | - | - |
