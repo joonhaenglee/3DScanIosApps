@@ -1,16 +1,19 @@
 
-<h1>Summary</h1>
-This project aims to identify and catalog appropriate 3D scanning apps for architecture students. 
+<h1>3D Scanning Apps for iPhone/iPad users</h1>
 
-<h3>Testing Methods</h3>
-![example](../img/001.jpg)
+This project aims to identify and catalog appropriate 3D scanning apps for students. 
+
+<h3>Testing device and object</h3>
+![001|690x348](upload://jMyv7dJ4Ld8sSuytd0Brjb3zW3L.jpeg) 
+
+I used [Iphone7](https://support.apple.com/kb/SP743?viewlocale=en_US&locale=en_US) and [Ipad Pro 12.9-inch(3rd generation)](https://support.apple.com/kb/SP785?viewlocale=en_US&locale=en_US) as a 3D scanning device, and used 100mm height froggy bank as a object to run 3D scan. 
 
 <h3>3D scanning apps/programs with good reputation</h3>
 
 Starting the research, I listed up frequently recommended 3d scanning apps from recently written articles and recommended photogrammatory apps/software from Harvard Summer course, Introduction to Digital Fabrication.<br>
-*[The 8 best 3D scanning apps for smartphones in 2020 (free!)](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)*<br>
-*[2020 Best 3D Scanner Apps for Android & iPhone](https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/)*<br>
-*[Introduction to Digital Fabricaton](https://www.summer.harvard.edu/course-catalog/ssp-courses/introduction-to-digital-fabrication/34524)*<br>
++ [The 8 best 3D scanning apps for smartphones in 2020 (free!)](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)
++ [2020 Best 3D Scanner Apps for Android & iPhone](https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/)
++ [Introduction to Digital Fabricaton](https://www.summer.harvard.edu/course-catalog/ssp-courses/introduction-to-digital-fabrication/34524)<br>
 
 <h3> 3D scanning apps hardware restrictions and key features</h3>
 
@@ -37,6 +40,16 @@ As a results, 5 apps, **Capture, Heges, Qlone, Scandy Pro, and Trino**, works in
 | 12 | [Scandy Pro](https://www.scandy.co/apps/scandy-pro) | O | iPhones and iPads with FaceID | - | <li>$1.99/W, $5.99/M, $49.99/Y</li> <li>In-app mesh editting</li> |
 | 13 | [Trnio](https://www.trnio.com/) | O | - | <li>Three free scan</li> | <li>$5.99</li> <li>Export OBJ</li> |
 
+
+<details open>
+<summary>Capture: 3D scan anything</summary>
+<br>
+Pros: <br>
+* hello
+* 2
+
+Cons
+</details>
 
 Capture:
 Please be aware that this PLY file contains a point cloud representation of the scan. Our SDK supports meshing, but we currently do not export meshes from the Capture App.
