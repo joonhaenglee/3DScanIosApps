@@ -3,6 +3,7 @@
 This project aims to identify and catalog appropriate 3D scanning apps for architecture students. 
 
 <h3>Testing Methods</h3>
+![](/img/001.jpeg)
 
 <h3>3D scanning apps/programs with good reputation</h3>
 
