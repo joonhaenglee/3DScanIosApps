@@ -4,9 +4,12 @@ This project aims to identify and catalog appropriate 3D scanning apps for archi
 
 <h3>Testing Methods</h3>
 
-<h3>Selecting 3D scanning apps to test</h3>
+<h3>3D scanning apps/programs with good reputation.</h3>
 
-Starting the research, I listed up 3d scanning apps to test based on recently written articles. I found two infromative articles [The 8 best 3D scanning apps for smartphones in 2020 (free!)](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/) and [2020 Best 3D Scanner Apps for Android & iPhone](https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/) suggesting 3d scanning app. Moreover, I add photogramatory apps shared from Iris which were introduced from the course [Introduction to Digital Fabricaton](https://www.summer.harvard.edu/course-catalog/ssp-courses/introduction-to-digital-fabrication/34524). Based on those refernecs, I created chart as below.
+Starting the research, I listed up frequently recommended 3d scanning apps from recently written articles and recommended photogrammatory apps/software from Harvard course Introduction to Digital Fabrication. 
+<li>[The 8 best 3D scanning apps for smartphones in 2020 (free!)](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)</li>
+<li>[2020 Best 3D Scanner Apps for Android & iPhone](https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/)</li>
+<li>[Introduction to Digital Fabricaton](https://www.summer.harvard.edu/course-catalog/ssp-courses/introduction-to-digital-fabrication/34524)</li>
 
 <h3> 3D scanning apps hardware restrictions and key features</h3>
 
