@@ -8,21 +8,21 @@ Starting the research, I listed up 3d scanning apps to test based on recently wr
 
 <h2> 3D Scanning Apps Comparison Chart</h2>
 
-| Index | Name | ios | Hardware restrictions | Key features(free) | Key features(paid) | Tutorials |Testing divece|
-| ----- | ---- | --- |----------------- | -------------------- | ------------------- | ------------ |-------------|
-| 01 | [3D Creator](https://play.google.com/store/apps/details?id=com.sonymobile.scan3d&hl=en) | X | - | - | - | - | - |
-| 02 | [3DsizeMe](https://techmed3d.com/products/3dsizeme/) | O | ipad with [Structure sensor](https://techmed3d.com/products/structure-sensor-mark-ii/)    | - | - | - | - |
-| 03 | [Bellus 3D](https://www.bellus3d.com/) | O | iPhones and iPads with FaceID | - | - | - | - |
-| 04 | [Canvas](https://canvas.io/) | O | ipad with [Structure sensor($499)](https://canvas.io/package) or LiDAR-enabled 2020 iPad Pros | - | - | - |-|
-| 05 | [Capture: 3D scan anything](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458) | O | iPhones and iPads with FaceID  | View model from web <br> High-resoultion scaning mode(Quadruple data points)<br> PLY / OBJ Export | - | - | [Ipad Pro(3rd)](https://support.apple.com/kb/SP785?viewlocale=en_US&locale=en_US) |
-| 06 | [Display.land](https://get.display.land/)<br> Will be discontinued on August 11 | O | - | - | - | - | - |
-| 07 | [Heges](https://hege.sh/) | O | iPhones and iPads with FaceID | - | <li> $8.99 </li> <li>PLY / STL Export</li>| - | [Ipad Pro(3rd)](https://support.apple.com/kb/SP785?viewlocale=en_US&locale=en_US) |
-| 08 | [ItSeez3D](https://itseez3d.com/) | O | ipad with Structure sensor   | - | - | - | - |
-| 09 | [Meshroom](https://alicevision.org/)<br>Stand-alone software | X | - | - | - | - | - |
-| 10 | [Qlone](https://www.qlone.pro/) | O | [AR Mat](https://28201f68-fc5e-48bf-ae38-d8fec5beca48.filesusr.com/ugd/0dc13a_00f1c793e9274ea4897766276c116ca1.pdf) | 3D Scanning, Export as GIF, jpeg | <li>$29.99</li> <li>Export model in various file format<li> | [How to use Qlone](https://www.youtube.com/watch?v=XkTaCOQ_OjI) | [Iphone7](https://support.apple.com/kb/SP743?viewlocale=en_US&locale=en_US) |
-| 11 | [ReCap](https://www.autodesk.com/products/recap/overview)<br>Stand-alone program| X | - | - | - | - | - |
-| 12 | [Scandy Pro](https://www.scandy.co/apps/scandy-pro) | O | iPhones and iPads with FaceID | - | $1.99/W, $5.99/M, $49.99/Y<br> Scan result editting in app | Useful links |[Ipad Pro(3rd)](https://support.apple.com/kb/SP785?viewlocale=en_US&locale=en_US)|
-| 13 | [Trnio](https://www.trnio.com/) | O | - | Three free scan | $5.99<br> Unlimited 3D scanning<br>Export OBJ | [Photogrammetry with Trnio](https://www.youtube.com/watch?v=GW_qpSZhDbA) | [Iphone7](https://support.apple.com/kb/SP743?viewlocale=en_US&locale=en_US) |
+| Index | Name | ios | Hardware restrictions | Key features(free) | Key features(paid) |
+| ----- | ---- | --- |----------------- | -------------------- | ------------------- | 
+| 01 | [3D Creator](https://play.google.com/store/apps/details?id=com.sonymobile.scan3d&hl=en) | X | - | - | - |
+| 02 | [3DsizeMe](https://techmed3d.com/products/3dsizeme/) | O | ipad with [Structure sensor](https://techmed3d.com/products/structure-sensor-mark-ii/)    | - | - |
+| 03 | [Bellus 3D](https://www.bellus3d.com/) | O | iPhones and iPads with FaceID | - | - |
+| 04 | [Canvas](https://canvas.io/) | O | ipad with [Structure sensor($499)](https://canvas.io/package) or LiDAR-enabled 2020 iPad Pros | - | - |
+| 05 | [Capture: 3D scan anything](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458) | O | iPhones and iPads with FaceID  | View model from web <br> High-resoultion scaning mode(Quadruple data points)<br> PLY / OBJ Export | - | 
+| 06 | [Display.land](https://get.display.land/)<br> Will be discontinued on August 11 | O | - | - | - | 
+| 07 | [Heges](https://hege.sh/) | O | iPhones and iPads with FaceID | - | <li> $8.99 </li> <li>PLY / STL Export</li>| 
+| 08 | [ItSeez3D](https://itseez3d.com/) | O | ipad with Structure sensor   | - | - | 
+| 09 | [Meshroom](https://alicevision.org/)<br>Stand-alone software | X | - | - | - | 
+| 10 | [Qlone](https://www.qlone.pro/) | O | [AR Mat](https://28201f68-fc5e-48bf-ae38-d8fec5beca48.filesusr.com/ugd/0dc13a_00f1c793e9274ea4897766276c116ca1.pdf) | 3D Scanning, Export as GIF, jpeg | <li>$29.99</li> <li>Export model in various file format<li> | 
+| 11 | [ReCap](https://www.autodesk.com/products/recap/overview)<br>Stand-alone program| X | - | - | - |
+| 12 | [Scandy Pro](https://www.scandy.co/apps/scandy-pro) | O | iPhones and iPads with FaceID | - | $1.99/W, $5.99/M, $49.99/Y<br> Scan result editting in app |
+| 13 | [Trnio](https://www.trnio.com/) | O | - | Three free scan | $5.99<br> Unlimited 3D scanning<br>Export OBJ |
 
 
 
