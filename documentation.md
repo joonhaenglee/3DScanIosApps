@@ -38,7 +38,10 @@ As a results, 5 apps, **Capture, Heges, Qlone, Scandy Pro, and Trino**, works in
 | 13 | [Trnio](https://www.trnio.com/) | O | - | <li>Three free scan</li> | <li>$5.99</li> <li>Export OBJ</li> |
 
 
+Capture:
+Please be aware that this PLY file contains a point cloud representation of the scan. Our SDK supports meshing, but we currently do not export meshes from the Capture App.
 
+Some programs will not display point cloud data without mesh faces, but you can use a free program like MeshLab to convert a point cloud into a mesh. The tutorial below walks through converting a point cloud into a mesh using MeshLab.
 
 I used [Iphone7](https://support.apple.com/kb/SP743?viewlocale=en_US&locale=en_US) and [Ipad Pro 12.9-inch(3rd generation)](https://support.apple.com/kb/SP785?viewlocale=en_US&locale=en_US) as a 3D scanning device, and used 100mm height froggy bank as a object to run 3D scan. 
 
