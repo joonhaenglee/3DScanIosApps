@@ -13,7 +13,12 @@ Starting the research, I listed up frequently recommended 3d scanning apps from 
 
 <h3> 3D scanning apps hardware restrictions and key features</h3>
 
-From the list, I checked the apps that can be tested using iPhone7 and iPad Pro(3rd). Some apps only exist in Andriod apps stores, and some other scanning apps requires additional divice like Structure sensor. Meshroom and ReCap are software runs in PC, and Display.land announced discontiue of the service from Auguest. After the research, only 5 apps, Capture,Heges,Qlone,Scandy Pro, and Trino, can be tested using my devices iPhone7 and iPad Pro(3rd). <br>
+From the list, I checked the apps whether they works in my devices by downloading and operating it. Some apps only exist in Andriod apps stores, and some other scanning apps requires additional divice like Structure sensor. Meshroom and ReCap are software runs in PC, and Display.land announced discontiue of the service from Auguest. <br><br>
+
+As a results, 5 apps, **Capture, Heges, Qlone, Scandy Pro, and Trino**, works in one of my device I have. 
+
++ iPhone7 Test: Qlone, Trino
++ iPad Pro(3rd) Test: Capture, Heges, Scandy Pro
 
 | Index | Name | ios | Hardware restrictions | Key features(free) | Key features(paid) |
 | ----- | ---- | --- |----------------- | -------------------- | ------------------- | 
