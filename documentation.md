@@ -4,14 +4,15 @@ This project aims to identify and catalog appropriate 3D scanning apps for archi
 
 <h3>Testing Methods</h3>
 
-<h3>3D scanning apps/programs with good reputation.</h3>
+<h3>3D scanning apps/programs with good reputation</h3>
 
-Starting the research, I listed up frequently recommended 3d scanning apps from recently written articles and recommended photogrammatory apps/software from Harvard course Introduction to Digital Fabrication. 
-<li>[The 8 best 3D scanning apps for smartphones in 2020 (free!)](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)</li>
-<li>[2020 Best 3D Scanner Apps for Android & iPhone](https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/)</li>
-<li>[Introduction to Digital Fabricaton](https://www.summer.harvard.edu/course-catalog/ssp-courses/introduction-to-digital-fabrication/34524)</li>
+Starting the research, I listed up frequently recommended 3d scanning apps from recently written articles and recommended photogrammatory apps/software from Harvard course Introduction to Digital Fabrication.<br>
+*[The 8 best 3D scanning apps for smartphones in 2020 (free!)](https://www.aniwaa.com/buyers-guide/3d-scanners/best-3d-scanning-apps-smartphones/)*<br>
+*[2020 Best 3D Scanner Apps for Android & iPhone](https://all3dp.com/2/5-best-3d-scanner-apps-for-your-smartphone/)*<br>
+*[Introduction to Digital Fabricaton](https://www.summer.harvard.edu/course-catalog/ssp-courses/introduction-to-digital-fabrication/34524)*<br>
 
 <h3> 3D scanning apps hardware restrictions and key features</h3>
+
 
 From the list, I checked the apps that can be tested using iPhone7 and iPad Pro(3rd). Some apps only exist in Andriod apps stores, and some other scanning apps requires additional divice like Structure sensor. Meshroom and ReCap are software runs in PC, and Display.land announced discontiue of the service from Auguest. After the research, only 5 apps, Capture,Heges,Qlone,Scandy Pro, and Trino, can be tested using my devices iPhone7 and iPad Pro(3rd). 
 
