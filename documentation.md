@@ -22,7 +22,7 @@ Starting the research, I listed up 3d scanning apps to test based on recently wr
 | 10 | [Qlone](https://www.qlone.pro/) | O | Need [AR Mat](https://28201f68-fc5e-48bf-ae38-d8fec5beca48.filesusr.com/ugd/0dc13a_00f1c793e9274ea4897766276c116ca1.pdf) | <li> Export GIF, jpeg | <li>$29.99</li> <li>Export model in various file format</li> | 
 | 11 | [ReCap](https://www.autodesk.com/products/recap/overview)<br>(Stand-alone software)| X | - | - | - |
 | 12 | [Scandy Pro](https://www.scandy.co/apps/scandy-pro) | O | iPhones and iPads with FaceID | - | <li>$1.99/W, $5.99/M, $49.99/Y</li> <li>In-app mesh editting</li> |
-| 13 | [Trnio](https://www.trnio.com/) | O | - | Three free scan | <li>$5.99</li> <li>Export OBJ</li> |
+| 13 | [Trnio](https://www.trnio.com/) | O | - | <li>Three free scan</li> | <li>$5.99</li> <li>Export OBJ</li> |
 
 
 
