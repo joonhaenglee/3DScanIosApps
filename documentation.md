@@ -27,7 +27,7 @@ As a results, 5 apps, **Capture, Heges, Qlone, Scandy Pro, and Trino**, works in
 | 02 | [3DsizeMe](https://techmed3d.com/products/3dsizeme/) | O | iPad with [Structure sensor](https://techmed3d.com/products/structure-sensor-mark-ii/)    | - | - |
 | 03 | [Bellus 3D](https://www.bellus3d.com/) | O | iPhones and iPads with FaceID | - | - |
 | 04 | [Canvas](https://canvas.io/) | O | iPad with [Structure sensor($499)](https://canvas.io/package) or LiDAR-enabled 2020 iPad Pros | - | - |
-| 05 | [Capture: 3D scan anything](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458) | O | iPhones and iPads with FaceID  | <li>View model from browser</li>  <li>High-resoultion scaning mode(Quadruple data points)</li> <li>Export PLY / OBJ </li> | - | 
+| 05 | [Capture: 3D scan anything](https://apps.apple.com/us/app/capture-3d-scan-anything/id1444183458) | O | iPhones and iPads with FaceID  | <li>View model from browser</li>  <li>High-resoultion scaning mode(Quadruple data points)</li> <li>Export USDZ / PLY / OBJ </li> | - | 
 | 06 | [Display.land](https://get.display.land/)<br> (Will be discontinued on August 11) | O | - | - | - | 
 | 07 | [Heges](https://hege.sh/) | O | iPhones and iPads with FaceID | - | <li> $8.99 </li> <li>PLY / STL Export</li>| 
 | 08 | [ItSeez3D](https://itseez3d.com/) | O | iPad with Structure sensor   | - | - | 
