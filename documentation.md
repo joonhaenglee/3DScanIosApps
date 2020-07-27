@@ -21,10 +21,9 @@ Starting the research, I listed up 3d scanning apps to test based on recently wr
 | 09 | Meshroom<br> AutoDesk Program | X | - | - | - | - | - |
 | 10 | [Qlone](https://www.qlone.pro/) | O | [AR Mat](https://28201f68-fc5e-48bf-ae38-d8fec5beca48.filesusr.com/ugd/0dc13a_00f1c793e9274ea4897766276c116ca1.pdf) | 3D Scanning, Export as GIF, jpeg | $29.99<br> Exporting 3D models, 4K resolution, AR viwe with animations | Useful links | [Iphone7](https://support.apple.com/kb/SP743?viewlocale=en_US&locale=en_US) |
 | 11 | Recap<br> AutoDesk Program | X | - | - | - | - | - |
-| 12 | Scandy Pro | O | Extra divice     | A week trial version | Pay version feature | Useful links |Tested divece|
+| 12 | Scandy Pro | O | iPhones and iPads with FaceID | - | $1.99/W, $5.99/M, $49.99/Y<br> Scan result editting in app | Useful links |[Ipad Pro(3rd)](https://support.apple.com/kb/SP785?viewlocale=en_US&locale=en_US)|
 | 13 | Sony 3D Creator | X | -  | - | - | - | - |
-| 14 | Trnio | O | Extra divice     | Free version feature | Pay version feature | Useful links | [Iphone7](https://support.apple.com/kb/SP743?viewlocale=en_US&locale=en_US) |
-
+| 14 | Trnio | O | - | Three free scan | $5.99<br> Unlimited 3D scanning<br>Export OBJ | [Photogrammetry with Trnio](https://www.youtube.com/watch?v=GW_qpSZhDbA) | [Iphone7](https://support.apple.com/kb/SP743?viewlocale=en_US&locale=en_US) |
 
 
 
